@@ -1,4 +1,4 @@
-# Movie-Critic
+# Movie Critic
 
 Final Project for Project in Machine Learning.
 
